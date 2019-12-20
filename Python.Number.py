@@ -38,4 +38,7 @@ SyntaxError: EOL while scanning string literal
 >>> print("Min Min\nThet Htar Yee Maung")
 Min Min
 Thet Htar Yee Maung
->>> 
+          
+          
+          
+          
